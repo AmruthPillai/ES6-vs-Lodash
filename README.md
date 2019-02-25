@@ -10,6 +10,8 @@ $ node test
 
 ## Reading the Output
 
+<img src="https://i.imgur.com/FKb6SUn.png" />
+
 Mapping over an Array of **1,000 objects**:
 ```
 		ES6		Lodash
